@@ -9,3 +9,8 @@ static.mixer.com
 thumbs.mixer.com
 uploads.mixer.com
 videocdn.mixer.com
+prodweb.mixer.map.fastly.net
+chat.mixer.com
+
+Regex Filter /See here: https://regex101.com/r/qucZit/1 
+dist[0-9]{1,}-[a-z,A-Z]{1,}[0-9]{1,}.mixer.com$
